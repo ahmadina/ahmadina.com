@@ -24,7 +24,9 @@ module.exports = {
       email: 'me@ahmadina.com',
       twitter: 'iahmadina',
       github: 'ahmadina',
-      rss: '#'
+      rss: '#',
+      vk: '#',
+      telegram: '#'
     }
   },
   plugins: [
