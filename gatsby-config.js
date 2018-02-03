@@ -1,32 +1,30 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com/',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
+    url: 'https://ahmadina.com/',
+    title: 'احمد کریم پور',
+    subtitle: 'یک توسعه دهنده نرم افزار در تلاش برای خلق ابزار‌هایی برای بهبود زندگی',
+    copyright: 'مطالب تحت لیسانس کریتیو کامنز منتشر می‌شوند.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'نوشته‌ها',
         path: '/'
       },
       {
-        label: 'About me',
+        label: 'درباره من',
         path: '/about/'
       },
       {
-        label: 'Contact me',
+        label: 'ارتباط با من',
         path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'احمد کریم پور',
+      email: 'me@ahmadina.com',
+      twitter: 'iahmadina',
+      github: 'ahmadina',
+      rss: '#'
     }
   },
   plugins: [
