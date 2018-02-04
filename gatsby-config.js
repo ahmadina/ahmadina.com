@@ -4,7 +4,7 @@ module.exports = {
     title: 'احمد کریم پور',
     subtitle: 'یک توسعه دهنده نرم افزار در تلاش برای خلق ابزار‌هایی برای بهبود زندگی',
     copyright: 'مطالب تحت لیسانس کریتیو کامنز منتشر می‌شوند.',
-    disqusShortname: '',
+    disqusShortname: 'ahmadina',
     menu: [
       {
         label: 'نوشته‌ها',
@@ -13,10 +13,6 @@ module.exports = {
       {
         label: 'درباره من',
         path: '/about/'
-      },
-      {
-        label: 'ارتباط با من',
-        path: '/contact/'
       }
     ],
     author: {

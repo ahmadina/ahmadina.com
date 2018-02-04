@@ -12,7 +12,6 @@ class CategoriesRoute extends React.Component {
     return (
       <div>
         <Helmet title={`All Categories - ${title}`} />
-        <Sidebar {...this.props} />
         <div className="content">
           <div className="content__inner">
             <div className="page">
@@ -33,6 +32,7 @@ class CategoriesRoute extends React.Component {
             </div>
           </div>
         </div>
+        <Sidebar {...this.props} />
       </div>
     );
   }
